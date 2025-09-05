@@ -1,0 +1,30 @@
+        body {
+            background-color: #1d1e1f;
+        }
+
+        .container {
+                margin-top: 30px;
+                margin-bottom: 30px;
+            }
+
+            #menu {
+                margin-top: 10px;
+                margin-left: 10px;
+                background-color: black;
+        }
+        .card {
+            background-color: black;
+        }
+
+        #kuva1 {
+            width: 100%;
+            height: 80%;
+        }  
+
+        .nav-link {
+            color: yellow;
+        }
+        h1 {
+            text-align:center;
+            color: red;
+        }

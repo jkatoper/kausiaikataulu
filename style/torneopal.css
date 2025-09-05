@@ -1,0 +1,280 @@
+.torneopal_widget .logo{
+    width:50px;
+    height:50px;
+    }
+    
+    
+.pitch { display: none; }
+Table.nextmatch td{border: 1px solid red;}
+table.nextmatch{
+border-collapse: separate;
+border: 1px solid red;
+}
+table.nextmatch td,
+table.nextmatch th{
+border: 1px solid red;
+}
+.nextmatch .joukkuenimi td{ text-align: center  !important; }
+.nextmatch .livelogo { text-align: center  !important; }
+
+           
+.borderbox {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-style:solid;
+    border-color: red;
+    border-width:1px;
+    background:yellow;
+    border-radius: 10px;
+    width: 95%;
+}
+
+p {
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+}
+
+.torneopal_widget .team_players{  
+    width:100%;  
+    font-family:Ubuntu,Arial;
+    border:1px solid #a3c0fe;
+  }
+  .torneopal_widget .team_players th{
+    text-align:center;
+    background:#a3c0fe;
+    color:#fff;
+    padding:4px 2px;
+  }
+  .torneopal_widget .team_players th.team,
+  .torneopal_widget .team_players td.team
+  {
+    text-align:left;
+  }
+  
+  .torneopal_widget .team_players td{
+    text-align:center;
+    background:#fff;
+    padding:4px 2px;
+  }
+  .torneopal_widget .team_players tr:nth-child(even) td{
+    background:#eee;
+  }
+  .torneopal_widget #updated{
+    display:none;
+  }
+  .pitch { display: none; }
+  .position{ display: none; }
+  .goal{ display: none; }
+  .yellowcard{ display: none; }
+  .redcard{ display: none; }
+  .match{ display: none; }
+
+.torneopal_widget .scheduletable{  
+  width: 100%;  
+  font-family:Ubuntu,Arial;
+  border:1px solid #a3c0fe;
+
+}
+.torneopal_widget .scheduletable th{
+  text-align:center;
+  background: red;
+  color:yellow;
+  padding:4px 2px;
+}
+.torneopal_widget .scheduletable th.team,
+.torneopal_widget .scheduletable td.team
+{
+  text-align:left;
+}
+
+.torneopal_widget .scheduletable td{
+  text-align:center;
+  background: yellow;
+  padding:4px 2px;
+}
+.torneopal_widget .scheduletable tr:nth-child(even) td{
+  background:white;;
+}
+.torneopal_widget #updated{
+  display:none;
+}
+.torneopal_widget h3 { display:none;}
+.torneopal_widget .scheduletable > caption {height:0px;}
+.competitionname {display: none;}
+.pitch {display:none;}
+
+
+.torneopal_widget .team_players{  
+    width: 100%;  
+    font-family:Ubuntu,Arial;
+    border:1px solid white;
+    border-radius: 10px;
+  }
+  .torneopal_widget .team_players th{
+    text-align:center;
+    background: red;
+    color:yellow;
+    padding:4px 2px;
+  }
+  .torneopal_widget .team_players th.team,
+  .torneopal_widget .team_players td.team
+  {
+    text-align:left;
+  }
+  
+  .torneopal_widget .team_players td{
+    text-align:center;
+    background: yellow;
+    padding:4px 2px;
+  }
+  .torneopal_widget .team_players tr:nth-child(even) td{
+    background:white;
+  }
+
+  .pitch { display: none; }
+
+
+.torneopal_widget .scheduletable{  
+    width: 100%;  
+    font-family:Ubuntu,Arial;
+    border:1px solid white;
+    border-radius: 10px;
+  }
+  .torneopal_widget .scheduletable th{
+    text-align:center;
+    background: red;
+    color:yellow;
+    padding:4px 2px;   
+  }
+
+  .torneopal_widget .scheduletable th.team,
+  .torneopal_widget .scheduletable td.team
+  {
+    text-align:left;
+  }
+  
+  .torneopal_widget .scheduletable td{
+    text-align:center;
+    background: yellow;
+    padding:4px 2px;
+    border:1px solid red;
+  }
+  .torneopal_widget .scheduletable tr:nth-child(even) td{
+    background:white;;
+  }
+  .torneopal_widget #updated{
+    display:none;
+  }
+  .torneopal_widget h3 { display:none;}
+  .torneopal_widget .scheduletable > caption {height:0px;}
+  .competitionname {display: none;}
+  .pitch {display:none;}
+  
+  
+  
+  .torneopal_widget .scoretable{  
+      width: 100%;  
+      font-family:Ubuntu,Arial;
+      border:1px solid red;
+      border-radius: 10px;
+    }
+    .torneopal_widget .scoretable th{
+      text-align:center;
+      background: red;
+      color:yellow;
+      padding:4px 2px;
+    }
+    .torneopal_widget .scoretable th.team,
+    .torneopal_widget .scoretable td.team
+    {
+      text-align:left;
+    }
+    
+    .torneopal_widget .scoretable td{
+      text-align:center;
+      background: yellow;
+      padding:4px 2px;
+      border:1px solid red; 
+    }
+    .torneopal_widget .scoretable tr:nth-child(even) td{
+      background:white;
+      
+    }
+
+    .torneopal_widget .statstable{  
+      width: 100%;  
+      font-family:Ubuntu,Arial;
+      border:1px solid red;
+      border-radius: 10px;
+    }
+    .torneopal_widget .statstable th{
+      text-align:center;
+      background: red;
+      color:yellow;
+      padding:4px 2px;
+    }
+    .torneopal_widget .statstable th.team,
+    .torneopal_widget .statstable td.team
+    {
+      text-align:left;
+    }
+    
+    .torneopal_widget .statstable td{
+      text-align:center;
+      background: yellow;
+      padding:4px 2px;
+      border:1px solid red; 
+    }
+    .torneopal_widget .statstable tr:nth-child(even) td{
+      background:white;
+      
+    }
+  
+    .pitch { display: none; }
+    table td{
+      border: 1px solid red;
+      padding: 4px 4px;
+      width:100%;
+      height:auto;
+      }
+      
+              table, th, td {
+                  font-family:Ubuntu,Arial;
+                  border:1px solid red;
+                  padding:4px 4px;       
+              }
+      
+              table th{
+                  text-align:center;
+                  background:red;
+                  color:yellow;
+                  padding:4px 4px;     
+              }
+              table td{
+                  text-align:center;
+                  background:yellow;
+                  padding:4px 4px;
+              }
+              table tr:nth-child(even) td{
+              background:white;
+              color:black;
+            }
+              table #updated{
+              display:none;
+              @media only screen and (max-width: 768px) {
+              table th,
+              table td {
+                  font-size: 12px;
+              }
+              }
+               @media only screen and (max-width: 600px) {
+              table th,
+              table td {
+                  font-size: 10px;
+              }
+              }
+      
+  
+   
